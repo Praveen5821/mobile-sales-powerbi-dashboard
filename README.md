@@ -1,11 +1,10 @@
 # 📊 Mobile Sales Dashboard (Power BI)
 
-## 📌 Overview
-This project is an interactive Mobile Sales Dashboard built using Power BI to analyze sales performance across cities, brands, and payment methods.
-
----
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard-preview.png)
+
+## 📌 Overview
+This project is an interactive Mobile Sales Dashboard built using Power BI to analyze sales performance across cities, brands, and payment methods.
 
 ---
 ## 🎯 Key Metrics
@@ -31,7 +30,8 @@ This project is an interactive Mobile Sales Dashboard built using Power BI to an
 
 ---
 ## 🎥 Demo
-https://www.linkedin.com/posts/praveen-prajapati01_powerbi-dataanalytics-dashboarddesign-ugcPost-7456542627916713984-5uFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXy9wQB_Xa9Wy0RyjujIgZs8Q89BAyqruk
+[Watch Demo on LinkedIn](https://www.linkedin.com/posts/praveen-prajapati01_powerbi-dataanalytics-dashboarddesign-ugcPost-7456542627916713984-5uFf?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEXy9wQB_Xa9Wy0RyjujIgZs8Q89BAyqruk
+)
 
 ---
 ## 📚 Learnings
